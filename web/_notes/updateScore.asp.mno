@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_updatescore" value="name:studentID;datatype:float,name:studentName;datatype:varchar,name:courseName;datatype:varchar,name:score;datatype:float" />
+	<infoitem key="UD_updateScore" value="name:studentID;datatype:float,name:studentName;datatype:varchar,name:courseName;datatype:varchar,name:score;datatype:float" />
+</info>

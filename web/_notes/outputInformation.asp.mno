@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_checkInformation" value="name:studentID;datatype:float,name:studentName;datatype:varchar,name:sex;datatype:varchar,name:birthdate;datatype:smalldatetime,name:hometown;datatype:varchar,name:school;datatype:varchar,name:major;datatype:varchar,name:department;datatype:varchar,name:native;datatype:smalldatetime" />
+</info>
